@@ -29,3 +29,5 @@ npm-debug.log*
 # Temporary files
 *.cache
 .temp/
+# Documentation Framework (excluded)
+Documentation_Framework_System_Agent/
