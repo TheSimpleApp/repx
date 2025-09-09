@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Microsoft Office
+~$*
+*.tmp
+*.temp
+
+# Development Framework (keep separate)
+Documentation_Framework_System_Agent/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.cache
+.temp/
